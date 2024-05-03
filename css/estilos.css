@@ -61,7 +61,7 @@ p {
 
 .transparent {
 	display: inline-block;
-	border: 1px solid #ffa600;
+	border: 1px solid #80eb52;
 	padding: 12px 1em;
 	width: 250px;
 	text-align: center;
@@ -70,7 +70,7 @@ p {
 }
 
 .transparent:hover {
-	background-color: #1883fd4b;
+	background-color: #3cbef7;
 	color: rgb(3, 2, 2);
 }
 #xdf {
@@ -79,7 +79,7 @@ p {
 /*barra de navegacion*/
 
 #navbar {
-	background-color: #0b1245;
+	background-color: #121018;
 }
 
 #navegation {
@@ -107,7 +107,7 @@ p {
 }
 
 #main-nav li a:hover {
-	background-color: #060829;
+	background-color: #3a3a3a;
 }
 
 #navbar-toggle {
@@ -309,7 +309,7 @@ article > section:nth-child(5) {
 /*estilos de las paginas*/
 
 main header {
-	background-color: #e69807;
+	background-color: #3cbef7;
 	padding: 45px 0;
 	margin-bottom: 40px;
 }
@@ -394,7 +394,7 @@ input#correo {
 }
 
 #boletin input[type="submit"] {
-	background-color: #008000;
+	background-color: #3cbef7;
 	display: inline-block;
 	padding: 10px 1em;
 	color: #fff;
